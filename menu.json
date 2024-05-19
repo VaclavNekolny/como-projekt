@@ -1,0 +1,12 @@
+{
+    "jidla": {
+        "hambruger": 115,
+        "pizza": 149,
+        "sandwitch": 59
+    },
+    "napoje": {
+        "cola": 35,
+        "pivo": 45,
+        "voda": 25
+    }
+}

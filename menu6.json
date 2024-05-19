@@ -1,0 +1,17 @@
+{
+    "jídla": {
+        "hambruger": 115,
+        "pizza": 149,
+        "sendvič": 59
+    },
+    "nápoje": {
+        "cola": 35,
+        "pivo": 45,
+        "voda": 25
+    },
+    "platba": [
+        "hotově",
+        "kartou",
+        "kupón"
+    ]
+}
